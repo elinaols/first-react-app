@@ -1,0 +1,385 @@
+[
+	{
+		"name": "Allegrine",
+		"openingHours": [
+			{
+				"mon": "11.30-23.00",
+				"tue": "11.30-23.00",
+				"wed": "11.30-23.00",
+				"thu": "11.30-23.00",
+				"fri": "11.30-01.00",
+				"sat": "17.00-01.00",
+				"sun": "closed"
+			}
+		],
+		"michelinStar": false,
+		"menu": [
+			{
+				"starters": [
+					{
+						"name": "Gaufrette",
+						"price": 220,
+						"description": "Krispiga potatischips som serveras med stenrom och syrad grädde"
+					},
+					{
+						"name": "Kammussla Cru",
+						"price": 205,
+						"description": "En råmarinerad kammussla med tillbehör"
+					},
+					{
+						"name": "Grillade räkor",
+						"price": 200,
+						"description": "Grillade räkor tillsammans med ostronskivling, bläckfisk och misomajonnäs"
+					},
+					{
+						"name": "Steak Tartare",
+						"price": 195,
+						"description": "Anklever med tryffelbrioche och sauternes"
+					}
+				]
+			},
+			{
+				"mainCourse": [
+					{
+						"name": "Socca Provencale",
+						"price": 280,
+						"description": "Vegetarisk rätt med kikärtor och citronpicklad aubergine"
+					},
+					{
+						"name": "Hälleflundra",
+						"price": 390,
+						"description": "Fisk tillsammans med blomkål, kålrabbi, kantareller och fermenterad citron"
+					},
+					{
+						"name": "Grillad piggvar",
+						"price": 440,
+						"description": "Piggvar med bergamotte, tahini, cocobönor samt spenat"
+					},
+					{
+						"name": "Anka al Orange",
+						"price": 405,
+						"description": "Anka som serveras med pumpa, foie gras, svartrot och grillad silverlök"
+					}
+				]
+			},
+			{
+				"dessert": [
+					{
+						"name": "Chokladsorbet",
+						"price": 90,
+						"description": "Härlig sorbet med smak av 70 procentig choklad"
+					},
+					{
+						"name": "Baba au Rhum",
+						"price": 130,
+						"description": "Plommon med gräddglass"
+					},
+					{
+						"name": "Gateau au Chocolat",
+						"price": 140,
+						"description": "Chokladkaka som serveras med pistagecrokant och vit kaffecréme"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Operakällaren",
+		"openingHours": [
+			{
+				"mon": "closed",
+				"tue": "18.00-01.00",
+				"wed": "18.00-01.00",
+				"thu": "18.00-01.00",
+				"fri": "12.00-01.00",
+				"sat": "12.00-01.00",
+				"sun": "closed"
+			}
+		],
+		"michelinStar": true,
+		"menu": [
+			{
+				"name": "Meny",
+				"price": 3100,
+				"description": "Dagens exklusivt utvalda meny"
+			},
+			{
+				"name": "Vinparning",
+				"price": 2200,
+				"description": "Servitören kombinerar viner till maträtterna som serveras"
+			},
+			{
+				"name": "Utan alkohol",
+				"price": 1200,
+				"description": "Servitören väljer rätt dryckesalternativ för varje serverad maträtt"
+			},
+			{
+				"name": "Grand Wine Pairing",
+				"price": 7500,
+				"description": "Här får ni utforska och njuta av vårt exklusiva vinutbud"
+			}
+		]
+	},
+	{
+		"name": "The Red House",
+		"openingHours": [
+			{
+				"mon": "16.00-00.00",
+				"tue": "16.00-00.00",
+				"wed": "16.00-00.00",
+				"thu": "16.00-01.00",
+				"fri": "15.00-01.00",
+				"sat": "15.00-01.00",
+				"sun": "closed"
+			}
+		],
+		"michelinStar": false,
+		"menu": [
+			{
+				"starters": [
+					{
+						"name": "Bifftartar",
+						"price": 175,
+						"description": "Tartar på biff med tillbehör"
+					},
+					{
+						"name": "Gomasallad",
+						"price": 165,
+						"description": "Sallad som serveras med kycklingskinn, nori, katsubushi, sesam och rispapper"
+					},
+					{
+						"name": "Silkestofu",
+						"price": 145,
+						"description": "Tofu med svart vinäger, ponzu, krispig potatis och salladslök"
+					}
+				]
+			},
+			{
+				"mainCourse": [
+					{
+						"name": "Aubergine",
+						"price": 175,
+						"description": "En aubergine marinerad i tare som serveras med svart miso och mjölkbröd"
+					},
+					{
+						"name": "Goyza med fläsk",
+						"price": 185,
+						"description": "Fläskfylld goyza med tillbehör"
+					},
+					{
+						"name": "Shibumi karaage chicken sandwich",
+						"price": 245,
+						"description": "Kyckling sandwich med bacon jam, karashi, kimchi, honung och misoglaze"
+					},
+					{
+						"name": "Catch of the day",
+						"price": 335,
+						"description": "Dagens fisk serveras med kumquat-kosho"
+					},
+					{
+						"name": "Fläskkotlett",
+						"price": 315,
+						"description": "Kotlett serveras med kumquat-kosho, äggula, ponzu och ginga"
+					},
+					{
+						"name": "Ångat ris toppat med furikake",
+						"price": 105,
+						"description": "Rätten serveras tillsammans med tsukemono, bakat ägg och krispig potatis"
+					}
+				]
+			},
+			{
+				"dessert": [
+					{
+						"name": "Friterad semla",
+						"price": 125,
+						"description": "Semla tillsammans med mandelmassa och miso créme pât"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "TAK",
+		"openingHours": [
+			{
+				"mon": "11.30-00.00",
+				"tue": "11.30-00.00",
+				"wed": "11.30-00.00",
+				"thu": "11.30-00.00",
+				"fri": "11.30-01.00",
+				"sat": "12.00-01.00",
+				"sun": "closed"
+			}
+		],
+		"michelinStar": false,
+		"menu": [
+			{
+				"starters": [
+					{
+						"name": "Rökt laxsashimi",
+						"price": 185,
+						"description": "Sashimi tillsammans med sudachi ponzu och rättika"
+					},
+					{
+						"name": "TAK's toast skagen",
+						"price": 225,
+						"description": "Toast tillsammans med en krämig skagen"
+					},
+					{
+						"name": "Råbiff",
+						"price": 195,
+						"description": "En råbiff som serveras med negi shio, äggula och rispapper"
+					},
+					{
+						"name": "Kammussla",
+						"price": 235,
+						"description": "Kammussla med kalixlöjrom, rödlök och panko"
+					}
+				]
+			},
+			{
+				"mainCourse": [
+					{
+						"name": "Röding",
+						"price": 355,
+						"description": "Röding tillsammans med savoykål, pumpa och yuzu koshõ"
+					},
+					{
+						"name": "Svensk ryggbiff",
+						"price": 445,
+						"description": "Biff med tare, broccolini och svart trumpetsvamp"
+					},
+					{
+						"name": "Ankbröst",
+						"price": 425,
+						"description": "Anka med pak choi, rödbeta, morots xo och shitake shoyu"
+					},
+					{
+						"name": "Maitake",
+						"price": 295,
+						"description": "Maitake serveras med douchi, fermenterad rotselleri, miso- och potatisterrine"
+					},
+					{
+						"name": "Fläsksida",
+						"price": 325,
+						"description": "Fläsksida som serveras med kaikuni, spenat och vårlök"
+					}
+				]
+			},
+			{
+				"dessert": [
+					{
+						"name": "Shu cream",
+						"price": 110,
+						"description": "Shu cream tillsammans med mayan red och körsbär"
+					},
+					{
+						"name": "Almond biscuit",
+						"price": 140,
+						"description": "Mandelbiskvi, vit namelaka, hasselnötter och yuzu"
+					},
+					{
+						"name": "Purin",
+						"price": 145,
+						"description": "Purin tillsammans med hjorton och vispad grädde"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Il tempo",
+		"openingHours": [
+			{
+			"mon": "17.00-22.00",
+			"tue": "17.00-22.00",
+			"wed": "17.00-22.00",
+			"thu": "17.00-23.00",
+			"fri": "16.00-23.00",
+			"sat": "16.00-23.00",
+			"sun": "16.00-22.00"
+			}
+		],
+		"michelinStar": false,
+		"menu": [
+			{
+				"starters": [
+					{
+					"name": "Crocchette",
+					"price": 145,
+					"description": "Karl-johansvampkroketter med tryffelaioli och parmigiano"
+					},
+					{
+					"name": "Formaggi",
+					"price": 225,
+					"description": "Kvällens ostar, fruktkompott, friterade valnötter och crostini"
+					},
+					{
+					"name": "Carciofi Fritti",
+					"price": 135,
+					"description": "Friterad kronärtskocka, citron och svartpepparaioli"
+					},
+					{
+					"name": "Salumi",
+					"price": 70,
+					"description": "En assiette med salami"
+					}
+				]
+			},
+			{
+				"mainCourse": [
+					{
+					"name": "Stella",
+					"price": 210,
+					"description": "Pizza med tillbehör som prosciutto, tryffelmascarpone, kronärtskocka, tomat, ruccola, parmesan och buffelmozzarella"
+					},
+					{
+					"name": "Funghi",
+					"price": 185,
+					"description": "Pizza med höstsvamp, svartkål och tryffelpecorino"
+					},
+					{
+					"name": "Pizza 'Nduja",
+					"price": 185,
+					"description": "San Marzano, rödlök, `nduja och persilja"
+					},
+					{
+					"name": "Pici Cacio e Pepe",
+					"price": 230,
+					"description": "Pasta med svartpeppar, pecorino och krabba"
+					},
+					{
+					"name": "Maccheroni Tartufo",
+					"price": 285,
+					"description": "Pasta med svart tryffel, hokkaido kammussla, citron och gräslök"
+					}
+				]
+			},
+			{
+				"dessert": [
+					{
+					"name": "Cannoli",
+					"price": 65,
+					"description": "Pistagecannoli med stracciatella semifreddo"
+					},
+					{
+					"name": "Tartufo di Cioccolato",
+					"price": 50,
+					"description": "Chokladtryffel"
+					},
+					{
+					"name": "Tiramisù",
+					"price": 100,
+					"description": "Vår klassiska tiramisù"
+					},
+					{
+					"name": "Torta della Nonna",
+					"price": 125,
+					"description": "Farmors mandelkaka med bryntsmör och lättvispad grädde"
+					}
+				]
+			}
+		]
+	}
+]
